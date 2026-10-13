@@ -4,7 +4,7 @@ Portafolio personal full stack (marca propia; SGI como proyecto featured en prod
 
 **Live:** https://totor054.github.io/Portafolio-Hector-Diaz/  
 **CV:** https://totor054.github.io/CV-HECTOR-DIAZ/  
-**LinkedIn:** https://www.linkedin.com/in/hector-padilla-4a7625164  
+**LinkedIn:** https://www.linkedin.com/in/hector-luis-diaz-padilla-4a7625164  
 **GitHub:** https://github.com/Totor054  
 
 ## Contacto en el sitio
